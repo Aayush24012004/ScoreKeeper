@@ -1,0 +1,12 @@
+.winner {
+  color: green;
+}
+.loser {
+  color: red;
+}
+.card {
+  margin-left: 36rem;
+}
+.col-sm-2 {
+  column-width: 10%;
+}
